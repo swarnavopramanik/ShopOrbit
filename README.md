@@ -6,9 +6,7 @@ The code for the E-commerce web application developed with Next.js is contained 
 
 - [Features](#features)
 - [Roadmap](#roadmap)
-- [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Technology Stack](#technology-stack)
 - [Folder Structure](#folder-structure)
 - [Acknowledgements](#acknowledgements)
