@@ -16,6 +16,10 @@ The code for the E-commerce web application developed with Next.js is contained 
 ## Features
 
 - **Home page:** Lists products and links to navigate around the website.
+
+![Screenshot 2025-04-14 085315](https://github.com/user-attachments/assets/b58156eb-cf10-457e-a30d-1a2c4a8bcd86)
+
+
 - **Cart:** View/Edit/Delete cart items.
 - **Wishlist:** View/Edit/Delete wishlist items.
 
