@@ -127,5 +127,5 @@ The project follows a common folder structure for a Next.js application:
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [Shadcn UI Documentation](https://ui.shadcn.com/docs)
--[Authentication methods at Google](https://cloud.google.com/docs/authentication)
+- [Authentication methods at Google](https://cloud.google.com/docs/authentication)
 
