@@ -2,6 +2,12 @@
 
 The code for the E-commerce web application developed with Next.js is contained in this repository.  The project employs a range of technologies and tools, including TypeScript, Redux Toolkit, ESLint, and Tailwind CSS. For login functionality, we utilize the Google Cloud Platform (GCP) for Google authentication and the Fakestore API for data fetching.
 
+## Project Demo 
+
+- [Video](https://www.loom.com/share/1de02053d09e473c9437fb2ca48a1a12?sid=87fd7db8-e93d-4f65-8534-125dbc209d70)
+
+
+
 ## Table of Contents
 
 - [Features](#features)
