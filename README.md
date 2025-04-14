@@ -19,10 +19,17 @@ The code for the E-commerce web application developed with Next.js is contained 
 
 ![Screenshot 2025-04-14 085315](https://github.com/user-attachments/assets/b58156eb-cf10-457e-a30d-1a2c4a8bcd86)
 
-
 - **Cart:** View/Edit/Delete cart items.
+
+
+![Screenshot 2025-04-14 085639](https://github.com/user-attachments/assets/2bca4fa4-292d-4d4c-a29e-d45a55cf352d)
+
+
+
 - **Wishlist:** View/Edit/Delete wishlist items.
 
+
+![Screenshot 2025-04-14 085811](https://github.com/user-attachments/assets/81132ba2-8905-42b0-a5de-56d6e23de838)
 
 
 
