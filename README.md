@@ -32,10 +32,12 @@ The code for the E-commerce web application developed with Next.js is contained 
 ## Roadmap
 
 - [x] navbar
-- [x] ~home page~
-- [x] ~my cart~
-- [x] ~my wishlist~
-- [x] ~product detail page~
+- [x] home page
+- [x] my cart
+- [x] my wishlist
+- [x] product detail page
+- [x] login page
+
 
 
 ## Installation
